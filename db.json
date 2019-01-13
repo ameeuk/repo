@@ -19,8 +19,28 @@
       "XDIRT": "F",
       "XGBN": "",
       "XCNGCON": "Fixed Coal & Ratio",
-      "XCON_CODE": "1",
-      "cid": "81"
+      "XCON_CODE": "1"
+    },
+    {
+      "id": "8",
+      "FAC_OP_CD": "P4",
+      "RMATC_CMB_YR_TP_MGT_NUM": "87",
+      "RMATC_CMB_NUM_AN_TP": "1",
+      "XBRAND": "MZH",
+      "XITEMCODE": "ABH03",
+      "XCHASU": "201800",
+      "RMATC_CMB_INDI_YR_TP": "2018",
+      "XNOW": "9",
+      "X0": "9",
+      "PCAL": "",
+      "XYARDCODE": "100240056",
+      "XYARD": "S",
+      "XFROM": "340",
+      "XTO": "480",
+      "XDIRT": "F",
+      "XGBN": "",
+      "XCNGCON": "Fixed Coal & Ratio",
+      "XCON_CODE": "1"
     }
   ]
 }
